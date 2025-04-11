@@ -1,0 +1,12 @@
+export 'package:ecommerce_app/features/profile/ui/views/profile_view.dart';
+export 'package:ecommerce_app/features/auth/data/models/user_models.dart';
+export 'package:ecommerce_app/features/nav_bar/logic/nav_bar_cubit.dart';
+export 'package:ecommerce_app/features/favorite/ui/favorite_view.dart';
+export 'package:ecommerce_app/core/resources/app_colors.dart';
+export 'package:google_nav_bar/google_nav_bar.dart';
+export '../../../../core/resources/app_text.dart';
+export '../../../../core/resources/constans.dart';
+export 'package:flutter_bloc/flutter_bloc.dart';
+export '../../../home/ui/views/home_view.dart';
+export '../../../store/ui/store_view.dart';
+export 'package:flutter/material.dart';
